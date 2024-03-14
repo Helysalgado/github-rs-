@@ -1,9 +1,10 @@
-# Descripción del scrip 
+# Descripción del Proyecto 
 
 
 
 ## Uso
 
+% python nombre_programa [-parametro] [valor argumento]
 
 
 ## Salida
